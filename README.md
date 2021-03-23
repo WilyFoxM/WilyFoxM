@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WilyFoxM
+- 👀 I’m interested in FullStack web development
+- 🌱 I’m currently learning NodeJs REACT/MONGO/EXPRESS stack
